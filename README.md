@@ -7,6 +7,6 @@ Qemu is herewith provided.
 
 Run dsl-base-net.bat 
 
-![alt tag](https://raw.githubusercontent.com/spartrekus/tiny-mnc/master/mnc.png)
+![alt tag](https://raw.githubusercontent.com/spartrekus/damn-small-linux-remastered-with-networking-tunnel/master/dsl.png)
 
 
