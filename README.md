@@ -6,3 +6,7 @@ easy method to run Linux, embedded on windows 7,8 and 10, to run networking and 
 Qemu is herewith provided.
 
 Run dsl-base-net.bat 
+
+![alt tag](https://raw.githubusercontent.com/spartrekus/tiny-mnc/master/mnc.png)
+
+
